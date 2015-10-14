@@ -1,7 +1,19 @@
 h1 {
-  color:#00ff00;
-  font-size:25px;
-  font-famoly:Courier,Arial,Times;
+  color:#29069a;
+  font-size:80px;
+  font-family: 'IM Fell Double Pica SC', serif;
+  text-align:center;
 }
 #my_container {
     background-size: 100% auto;width:100%;height:100%;}
+
+#nav {
+  width:100%;
+}
+table {
+  margin-top:190px;
+  font-family: 'Fredericka the Great', cursive;
+  font-size:40px;
+  color:#378bff;
+
+}
