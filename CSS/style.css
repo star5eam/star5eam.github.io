@@ -9,12 +9,14 @@ h1 {
 
 #nav {
   width:100%;
+  text-align:center;
 }
 table {
   margin-top:190px;
   font-family: 'Fredericka the Great', cursive;
   font-size:40px;
   color:#246BB2;
+  text-align:center;
 
 }
 a:link, a:visited {
