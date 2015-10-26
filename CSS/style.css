@@ -26,3 +26,8 @@ a:link, a:visited {
 a:hover, a:active{
   color:#00FFCC;
 }
+img {
+  width:60%;
+  length:50%;
+  text-align: justify;
+}
