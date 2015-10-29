@@ -1,8 +1,9 @@
 h1 {
-  font-size:60px;
+  font-size:50px;
   color:#8533FF;
   font-family: 'Indie Flower', cursive;
   margin-bottom:120%;
+  text-align: center;
 }
 html, body {
   height: 100%;

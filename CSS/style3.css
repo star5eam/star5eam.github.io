@@ -1,6 +1,23 @@
 h1 {
-  font-size: 80px;
-  color:#66FF33
-  font-family: 'Londrina Outline', cursive;
+  font-size:60px;
+  color:#E64848;
   text-align: center;
+  font-family: 'Rock Salt', cursive;
+}
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+#full-screen-background-image {
+  z-index: -999;
+  min-height: 100%;
+  min-width: 1024px;
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
