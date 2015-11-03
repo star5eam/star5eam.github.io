@@ -21,16 +21,19 @@ h1 {
   font-size: 90px;
   color:#FF8914;
   margin-left:40px;
+  margin-top:2px;
 
 }
 #nav {
   width:100%;
-  text-align:center;}
+  text-align:center;
+}
   table {
     font-family: 'Fredericka the Great', cursive;
     font-size:40px;
     color:#1489FF;
     text-align:center;
+    margin-top:10px;
 }
 a:link, a:visited {
   color:#246BB2;
