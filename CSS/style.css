@@ -45,3 +45,6 @@ img {
   length:60%;
   text-align: justify;
 }
+img:hover {
+  opacity:.6;
+}

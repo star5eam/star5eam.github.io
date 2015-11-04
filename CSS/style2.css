@@ -26,6 +26,7 @@ html, body {
 #nav {
   width:100%;
   text-align:center;
+    margin-top:-2em;
 
 }
   table {
@@ -33,10 +34,9 @@ html, body {
     font-size:40px;
     color:#1489FF;
     text-align:center;
-      margin-top:
 }
 a:link, a:visited {
-  color:#246BB2;
+  color:#FF2B2B;
 }
 
 a:hover, a:active{
