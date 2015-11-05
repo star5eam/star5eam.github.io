@@ -21,7 +21,7 @@ html, body {
   position: fixed;
   top: 0;
   left: 0;
-  opacity: .8;
+  opacity: .7;
 }
 
 #nav {
@@ -41,4 +41,16 @@ a:link, a:visited {
 
 a:hover, a:active{
   color:#00FFCC;
+}
+p:first-child {
+  font-size:30px;
+  color:#850BFF;
+    font-family: 'Architects Daughter', cursive;
+    margin-left:1em;
+}
+p:nth-child(1) {
+  font-size:30px;
+  color:#00EB00;
+    font-family: 'Architects Daughter', cursive;
+    margin-left:1em;
 }
