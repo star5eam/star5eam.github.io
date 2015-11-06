@@ -42,13 +42,13 @@ a:link, a:visited {
 a:hover, a:active{
   color:#00FFCC;
 }
-p:first-child {
+#paraone {
   font-size:30px;
   color:#850BFF;
     font-family: 'Architects Daughter', cursive;
     margin-left:1em;
 }
-p:nth-child(1) {
+p:nth-child(2) {
   font-size:30px;
   color:#00EB00;
     font-family: 'Architects Daughter', cursive;
