@@ -42,3 +42,18 @@ a:link, a:visited {
 a:hover, a:active{
   color:#00FFCC;
 }
+h2 {
+  font-family: 'Courgette', cursive;
+  color:inherit;
+  font-size:30px;
+}
+li {
+    font-family: 'Courgette', cursive;
+    color:inherit;
+    font-size:20px;
+}
+#two {
+  font-family: 'Courgette', cursive;
+  color:inherit;
+  font-size:30px;
+}
