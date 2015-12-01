@@ -1,6 +1,6 @@
 h1 {
   font-size:70px;
-  color: #41C0FF;
+  color:#ff8000;
   text-align: center;
   margin-top:2px;
   font-family: 'Allan', cursive;
@@ -21,7 +21,7 @@ html, body {
   position: fixed;
   top: 0;
   left: 0;
-  opacity:.8;
+  opacity:.6;
 }
 #nav {
   width:100%;
@@ -41,4 +41,10 @@ a:link, a:visited {
 
 a:hover, a:active{
   color:#00FFCC;
+}
+p {
+  font-size:47px;
+  color:#ff8000;
+  font-family: 'Allan', cursive;
+  margin-left:45px;
 }
