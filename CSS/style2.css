@@ -21,7 +21,7 @@ html, body {
   position: fixed;
   top: 0;
   left: 0;
-  opacity:.8;
+  opacity:.6;
 }
 #nav {
   width:100%;
@@ -41,4 +41,10 @@ a:link, a:visited {
 
 a:hover, a:active{
   color:#00FFCC;
+}
+p {
+  color:#FF5050;
+  font-size:40px;
+  font-family: 'Indie Flower', cursive;
+  margin-left:30px;
 }
